@@ -1,0 +1,7 @@
+PyQt6
+cryptography
+argon2-cffi
+pyotp
+qrcode[pil]
+pytest
+
